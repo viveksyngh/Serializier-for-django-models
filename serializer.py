@@ -1,7 +1,6 @@
 from django.db.models.query import QuerySet
 from decimal import Decimal
 from datetime import datetime
-from CavacServ9.utils import localizeTime
 import pytz
 import iso8601
 
